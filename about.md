@@ -3,28 +3,45 @@ layout: page
 title: About
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+## Quantum Monte Carlo 
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+Our group has expertise in quantum Monte Carlo (QMC) techniques. 
+The central quantity in the quantum mechanics of many particles is the many-body wave function, which is a complex function of *all* the positions of the quantum particles in the system.
+For example, for 20 particles in 3 dimensions, this is a 60-dimensional function. 
+Clearly we cannot represent such a function on a grid.
 
-There are currently two themes built on Poole:
+We use Monte Carlo techniques to handle the high dimensionality of the many-particle wave function.
+In these techniques, the wave function is sampled instead of solved for directly. 
+The two techniques that we use most are variational and projector Monte Carlo techniques. 
+These methods have been around since near the beginning of computing, but only fairly recently can we use them on realistic materials.
+For those that are interested, on my GitHub page, I have very simple implementations of these methods in Jupyter notebooks. 
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+For production calculations, we use QWalk, which is maintained within the group and available under the GPL version 2 at <a href="http://qwalk.org"> qwalk.org.</a>
+The algorithms are not so different from the example notebooks above, except that QWalk runs much much faster, has a lot of bells and whistles, and can run efficiently on at least 1,000,000 processor threads, as tested on Argonne's supercomputer Mira.
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+We see QMC as the next step in simulations of materials. 
+The current standard is density functional theory; while QMC methods are often 1000 times more expensive, they are also much more accurate and can use many processor cores. 
 
-## Setup
+## Correlated electron systems
 
-Some fun facts about the setup of this project include:
+When electrons coordinate their motions, we term that effect electron correlation.
+All systems of electrons are at least somewhat correlated.
+For example, about half the cohesive energy of solids is due to electron correlation!
+However, there are some systems for which the electron correlation plays an extremely important role. 
+These are often, but not always, systems with transition metals.
 
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
+Our group has used QMC techniques to study a number of different correlated electron systems, which range from the metal-insulator transition of VO<sub>2</sub> to the unconventional superconductors with copper and iron.
+One of our big interests is whether one can classify these materials using genomic ideas.
+For details, please see the papers tab.
 
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
+## Low energy effective models
 
-Thanks for reading!
+
+Effective models have a long history within physics as a way to better understand materials. 
+They are a way to see commonalities between different physical systems; often while two systems may look quite different at first glance, one can find commonalities and encode them in effective models.
+On the other hand, the effective models often contain undetermined parameters that must be somehow estimated or fit to experiment. 
+In the face of limited experimental data on complex systems, there also can be competing models that all appear to have some advantages and disadvantages.
+
+In collaboration with former postdoc Hitesh Changlani, we worked out a way to map first principles QMC calculations onto effective models. 
+This method allows us not only to be able to find the parameters of the models, but also to make an assessment of their quality. 
+We are currently working to automate and make systematic this technique so that it can be applied to many materials.
