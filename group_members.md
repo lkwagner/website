@@ -22,10 +22,24 @@ Postdoc
   </p>
 </td>
 </tr>
+ <tr> <td width="15%"> <img src="../assets/kiel.png"> </td>
+<td> <span id="bioname"> <b> Kiel Williams </b> </span>  <br>
+Graduate Student
+<p> Kiel is an NSF Graduate Research Fellow who is learning how to improve many-body wave functions in realistic systems. He joined the group in summer of 2013.
+  </p>
+</td>
+</tr>
  <tr> <td width="15%"> <img src="../assets/brian.png"> </td>
 <td> <span id="bioname"> <b> Brian Busemeyer </b> </span>  <br>
 Graduate Student
 <p> Brian is an NSF Graduate Research Fellow who is using quantum Monte Carlo methods to study superconducting materials. He joined the group in August 2013.
+  </p>
+</td>
+</tr>
+ <tr> <td width="15%"> <img src="../assets/profile-placeholder.gif"> </td>
+<td> <span id="bioname"> <b> Jeremy Morales </b> </span>  <br>
+Associated Graduate Student
+<p> Jeremy is a student of Peter Abbamonte who is studying magnetic models for unconventional superconductors.
   </p>
 </td>
 </tr>
@@ -48,20 +62,6 @@ Graduate Student
 <p> William joined the group in January 2016. He is currently working on the information content of many-body wave functions, and data analysis. </p>
 </td>
 </tr>
- <tr> <td width="15%"> <img src="../assets/kiel.png"> </td>
-<td> <span id="bioname"> <b> Kiel Williams </b> </span>  <br>
-Graduate Student
-<p> Kiel is an NSF Graduate Research Fellow who is learning how to improve many-body wave functions in realistic systems. He joined the group in summer of 2013.
-  </p>
-</td>
-</tr>
- <tr> <td width="15%"> <img src="../assets/profile-placeholder.gif"> </td>
-<td> <span id="bioname"> <b> Jeremy Morales </b> </span>  <br>
-Associated Graduate Student
-<p> Jeremy is a student of Peter Abbamonte who is studying magnetic models for unconventional superconductors.
-  </p>
-</td>
-</tr>
  <tr> <td width="15%"> <img src="../assets/profile-placeholder.gif"> </td>
 <td> <span id="bioname"> <b> Shivesh Pathak </b> </span>  <br>
 Graduate Student
@@ -69,14 +69,14 @@ Graduate Student
   </p>
 </td>
 </tr>
- <tr> <td width="15%"> <img src="../assets/profile-placeholder.gif"> </td>
+ <tr> <td width="15%"> <img src="../assets/yueqing.jpg"> </td>
 <td> <span id="bioname"> <b> Yueqing Chang </b> </span>  <br>
 Graduate Student
 <p> Yueqing joined the group in fall 2016. At the time of this writing, she is still working out her project!
   </p>
 </td>
 </tr>
- <tr> <td width="15%"> <img src="../assets/profile-placeholder.gif"> </td>
+ <tr> <td width="15%"> <img src="../assets/mick.jpg"> </td>
 <td> <span id="bioname"> <b> Kittithat (Mick) Krongchon </b> </span>  <br>
 Undergraduate Student
 <p> Kit is working on automating electronic structure calculations in such a way that quantum Monte Carlo calculations can be performed more easily.
