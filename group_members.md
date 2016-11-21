@@ -83,7 +83,7 @@ Undergraduate Student
   </p>
 </td>
 </tr>
- <tr> <td width="15%"> <img src="../assets/profile-placeholder.gif"> </td>
+ <tr> <td width="15%"> <img src="../assets/matt_ho.jpg"> </td>
 <td> <span id="bioname"> <b> Matt Ho </b> </span>  <br>
 Undergraduate Student
 <p> Matt is working on data-mining approaches to understanding trends in correlated electron materials.  </p>

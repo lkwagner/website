@@ -48,7 +48,7 @@ members=[ {"name":"Lucas Wagner","position":"Group Leader","image":"lucas.png",
     {"name":"Kittithat (Mick) Krongchon","position":"Undergraduate Student","image":"mick.jpg",
         "description":"""Kit is working on automating electronic structure calculations in such a way that quantum Monte Carlo calculations can be performed more easily.
  """},
-    {"name":"Matt Ho","position":"Undergraduate Student","image":"profile-placeholder.gif",
+    {"name":"Matt Ho","position":"Undergraduate Student","image":"matt_ho.jpg",
         "description":"""Matt is working on data-mining approaches to understanding trends in correlated electron materials. """},
     {"name":"Ping-Ko Cho",
       "position":"Undergraduate Student",
