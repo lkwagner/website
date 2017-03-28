@@ -11,9 +11,6 @@ def member_format(m):
 
 members=[ {"name":"Lucas Wagner","position":"Group Leader","image":"lucas.png",
     "description":"""Lucas has over a decade's experience in computing the properties of many-body quantum systems from first principles. He is the primary architect and developer of the open-source quantum Monte Carlo program QWalk, and has made advances in many-body quantum methods, as well as a number of applications to challenging electronic systems. While he has many interests, the overarching theme of his research is using computers to study systems of electrons that fall beyond the normal paradigms of metals and insulators."""},
-          {"name":"Awadhesh Narayan","position":"Postdoc","image":"awadhesh-narayan_170.jpg" ,
-        "description":"""Awadhesh got his PhD from Trinity College Dublin, where he studied the transport of spins in materials. His interest in this group is the prediction of new strongly correlated materials that may have quite unusual properties.
- """},
           {"name":"Kiel Williams","position":"Graduate Student","image":"kiel.png",
         "description":"""Kiel is an NSF Graduate Research Fellow who is learning how to improve many-body wave functions in realistic systems. He joined the group in summer of 2013.
  """},              
@@ -61,6 +58,10 @@ members=[ {"name":"Lucas Wagner","position":"Group Leader","image":"lucas.png",
 
 
 alumni=[
+          {"name":"Awadhesh Narayan","position":"Postdoc","image":"awadhesh-narayan_170.jpg" ,
+        "description":"""Awadhesh got his PhD from Trinity College Dublin, where he studied the transport of spins in materials. His interest in this group was the prediction of new strongly correlated materials that may have quite unusual properties.
+After a productive stint in the group, he has moved to ETH-Zurich to work with Nicola Spaldin.
+ """},    
           {"name":"Hitesh Changlani","position":"Postdoc","image":"hitesh.png",
         "description":"""Hitesh hails from Cornell and specializes in many-body quantum methods, mostly as applied to model lattice systems. His work in this group has focused on formalizing the link between the high energy (for condensed matter) physics of electrons and the low-energy qualitative descriptions that we use to talk about materials. Hitesh is a prolific collaborator and also worked with Shinsei Ryu, Taylor Hughes, Bryan Clark, and David Ceperley in the physics department at UIUC. He is now a postdoc at Johns Hopkins.
  """},    

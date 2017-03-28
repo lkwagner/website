@@ -15,13 +15,6 @@ Group Leader
 <p> Lucas has over a decade's experience in computing the properties of many-body quantum systems from first principles. He is the primary architect and developer of the open-source quantum Monte Carlo program QWalk, and has made advances in many-body quantum methods, as well as a number of applications to challenging electronic systems. While he has many interests, the overarching theme of his research is using computers to study systems of electrons that fall beyond the normal paradigms of metals and insulators. </p>
 </td>
 </tr>
- <tr> <td width="15%"> <img src="../assets/awadhesh-narayan_170.jpg"> </td>
-<td> <span id="bioname"> <b> Awadhesh Narayan </b> </span>  <br>
-Postdoc
-<p> Awadhesh got his PhD from Trinity College Dublin, where he studied the transport of spins in materials. His interest in this group is the prediction of new strongly correlated materials that may have quite unusual properties.
-  </p>
-</td>
-</tr>
  <tr> <td width="15%"> <img src="../assets/kiel.png"> </td>
 <td> <span id="bioname"> <b> Kiel Williams </b> </span>  <br>
 Graduate Student
@@ -104,6 +97,14 @@ Undergraduate Student
 <table cellpadding="5" border="0" style="width:100%">
 <tbody>
 
+ <tr> <td width="15%"> <img src="../assets/awadhesh-narayan_170.jpg"> </td>
+<td> <span id="bioname"> <b> Awadhesh Narayan </b> </span>  <br>
+Postdoc
+<p> Awadhesh got his PhD from Trinity College Dublin, where he studied the transport of spins in materials. His interest in this group was the prediction of new strongly correlated materials that may have quite unusual properties.
+After a productive stint in the group, he has moved to ETH-Zurich to work with Nicola Spaldin.
+  </p>
+</td>
+</tr>
  <tr> <td width="15%"> <img src="../assets/hitesh.png"> </td>
 <td> <span id="bioname"> <b> Hitesh Changlani </b> </span>  <br>
 Postdoc
