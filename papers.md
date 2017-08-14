@@ -2,39 +2,47 @@
 layout: page
 title: Papers
 ---
+<i>Charge Density Wave and Narrow Energy Gap at Room Temperature in 2D Pb3-xSb1+xS4Te2-$\delta$ with Square Te Sheets</i>  <br> Haijie Chen, Christos D. Malliakas, Awadhesh Narayan, Lei Fang, Duck Young Chung, Lucas K. Wagner, Wai-Kwong Kwok, Mercouri G. Kanatzidis <br>J. Am. Chem. Soc. <b></b>  (2017) [DOI](https://doi.org/10.1021/jacs.7b06446)
+
+<i>Investigation of a Quantum Monte Carlo Protocol To Achieve High Accuracy and High-Throughput Materials Formation Energies</i>  <br> Kayahan Saritas, Tim Mueller, Lucas Wagner, Jeffrey C. Grossman <br>J. Chem. Theory Comput. <b>13</b> 1943 (2017) [DOI](https://doi.org/10.1021/acs.jctc.6b01179)
+
+<i>Accurate barrier heights using diffusion Monte Carlo</i>  <br> Kittithat Krongchon, Brian Busemeyer, Lucas K. Wagner <br>The Journal of Chemical Physics <b>146</b> 124129 (2017) [DOI](https://doi.org/10.1063/1.4979059)
+
 <i>Fixed-node diffusion Monte Carlo description of nitrogen defects in zinc oxide</i>  <br> Jaehyung Yu, Lucas K. Wagner, Elif Ertekin <br>Phys. Rev. B <b>95</b> 075209 (2017) [DOI](https://doi.org/10.1103/PhysRevB.95.075209)
 
-<i>Diffusion Monte Carlo for Accurate Dissociation Energies of 3d Transition Metal Containing Molecules</i>  <br> Katharina Doblhoff-Dier, J\"org Meyer, Philip E. Hoggan, Geert-Jan Kroes, Lucas K. Wagner <br>Journal of Chemical Theory and Computation <b>12</b> 2583 (2016) [DOI](https://doi.org/10.1021/acs.jctc.6b00160)
-
-<i>Hexagonal boron nitride and water interaction parameters</i>  <br> Yanbin Wu, Lucas K. Wagner, Narayana R. Aluru <br>The Journal of Chemical Physics <b>144</b> 164118 (2016) [DOI](https://doi.org/10.1063/1.4947094)
+<i>Competing collinear magnetic structures in superconducting FeSe by first-principles quantum Monte Carlo calculations</i>  <br> Brian Busemeyer, Mario Dagrada, Sandro Sorella, Michele Casula, Lucas K. Wagner <br>Phys. Rev. B <b>94</b> 035108 (2016) [DOI](https://doi.org/10.1103/PhysRevB.94.035108)
 
 <i>Computational and experimental investigation for new transition metal selenides and sulfides: The importance of experimental verification for stability</i>  <br> Awadhesh Narayan, Ankita Bhutani, Samantha Rubeck, James N. Eckstein, Daniel P. Shoemaker, Lucas K. Wagner <br>Phys. Rev. B <b>94</b> 045105 (2016) [DOI](https://doi.org/10.1103/PhysRevB.94.045105)
 
+<i>Hexagonal boron nitride and water interaction parameters</i>  <br> Yanbin Wu, Lucas K. Wagner, Narayana R. Aluru <br>The Journal of Chemical Physics <b>144</b> 164118 (2016) [DOI](https://doi.org/10.1063/1.4947094)
+
 <i>Diffusion Monte Carlo Perspective on the Spin-State Energetics of [Fe(NCH)6]2+</i>  <br> Maria Fumanal, Lucas K. Wagner, Stefano Sanvito, Andrea Droghetti <br>J. Chem. Theory Comput. <b>12</b> 4233 (2016) [DOI](https://doi.org/10.1021/acs.jctc.6b00332)
+
+<i>From complex magnetism ordering to simple ferromagnetism in two-dimensional \$\textbackslashmathrm\LaCrS\\\textbackslashmathrm\b\\\_\3\\$ by hole doping</i>  <br> Haijie Chen, Awadhesh Narayan, Lei Fang, Nicholas P. Calta, Fengyuan Shi, Duck Young Chung, Lucas K. Wagner, Wai-Kwong Kwok, Mercouri G. Kanatzidis <br>Phys. Rev. B <b>94</b> 134411 (2016) [DOI](https://doi.org/10.1103/PhysRevB.94.134411)
+
+<i>Diffusion Monte Carlo for Accurate Dissociation Energies of 3d Transition Metal Containing Molecules</i>  <br> Katharina Doblhoff-Dier, J\"org Meyer, Philip E. Hoggan, Geert-Jan Kroes, Lucas K. Wagner <br>Journal of Chemical Theory and Computation <b>12</b> 2583 (2016) [DOI](https://doi.org/10.1021/acs.jctc.6b00160)
 
 <i>Using local operator fluctuations to identify wave function improvements</i>  <br> Kiel T. Williams, Lucas K. Wagner <br>Phys. Rev. E <b>94</b> 013303 (2016) [DOI](https://doi.org/10.1103/PhysRevE.94.013303)
 
 <i>Discovering correlated fermions using quantum Monte Carlo</i>  <br> Lucas K. Wagner, David M. Ceperley <br>Rep. Prog. Phys. <b>79</b> 094501 (2016) [DOI](https://doi.org/10.1088/0034-4885/79/9/094501)
 
-<i>Competing collinear magnetic structures in superconducting FeSe by first-principles quantum Monte Carlo calculations</i>  <br> Brian Busemeyer, Mario Dagrada, Sandro Sorella, Michele Casula, Lucas K. Wagner <br>Phys. Rev. B <b>94</b> 035108 (2016) [DOI](https://doi.org/10.1103/PhysRevB.94.035108)
-
-<i>Ground state of doped cuprates from first-principles quantum Monte Carlo calculations</i>  <br> Lucas K. Wagner <br>Phys. Rev. B <b>92</b> 161116 (2015) [DOI](https://doi.org/10.1103/PhysRevB.92.161116)
-
 <i>The interaction between hexagonal boron nitride and water from first principles</i>  <br> Yanbin Wu, Lucas K. Wagner, Narayana R. Aluru <br>The Journal of Chemical Physics <b>142</b> 234702 (2015) [DOI](https://doi.org/10.1063/1.4922491)
 
 <i>Phase stability and properties of manganese oxide polymorphs: Assessment and insights from diffusion Monte Carlo</i>  <br> Joshua A. Schiller, Lucas K. Wagner, Elif Ertekin <br>Phys. Rev. B <b>92</b> 235209 (2015) [DOI](https://doi.org/10.1103/PhysRevB.92.235209)
-
-<i>Computation of the Correlated Metal-Insulator Transition in Vanadium Dioxide from First Principles</i>  <br> Huihuo Zheng, Lucas K. Wagner <br>Phys. Rev. Lett. <b>114</b> 176401 (2015) [DOI](https://doi.org/10.1103/PhysRevLett.114.176401)
 
 <i>Towards a systematic assessment of errors in diffusion Monte Carlo calculations of semiconductors: Case study of zinc selenide and zinc oxide</i>  <br> Jaehyung Yu, Lucas K. Wagner, Elif Ertekin <br>The Journal of Chemical Physics <b>143</b> 224707 (2015) [DOI](https://doi.org/10.1063/1.4937421)
 
 <i>Density-matrix based determination of low-energy model Hamiltonians from ab initio wavefunctions</i>  <br> Hitesh J. Changlani, Huihuo Zheng, Lucas K. Wagner <br>The Journal of Chemical Physics <b>143</b> 102814 (2015) [DOI](https://doi.org/10.1063/1.4927664)
 
+<i>Ground state of doped cuprates from first-principles quantum Monte Carlo calculations</i>  <br> Lucas K. Wagner <br>Phys. Rev. B <b>92</b> 161116 (2015) [DOI](https://doi.org/10.1103/PhysRevB.92.161116)
+
+<i>Computation of the Correlated Metal-Insulator Transition in Vanadium Dioxide from First Principles</i>  <br> Huihuo Zheng, Lucas K. Wagner <br>Phys. Rev. Lett. <b>114</b> 176401 (2015) [DOI](https://doi.org/10.1103/PhysRevLett.114.176401)
+
 <i>Effect of electron correlation on the electronic structure and spin-lattice coupling of high-Tc cuprates: Quantum Monte Carlo calculations</i>  <br> Lucas K. Wagner, Peter Abbamonte <br>Physical Review B <b>90</b> 125129 (2014) [DOI](https://doi.org/10.1103/PhysRevB.90.125129)
 
-<i>Point-defect optical transitions and thermal ionization energies from quantum Monte Carlo methods: Application to the F-center defect in MgO</i>  <br> Elif Ertekin, Lucas K. Wagner, Jeffrey C. Grossman <br>Phys. Rev. B <b>87</b> 155210 (2013) [DOI](https://doi.org/10.1103/PhysRevB.87.155210)
-
 <i>Types of single particle symmetry breaking in transition metal oxides due to electron correlation</i>  <br> Lucas K. Wagner <br>The Journal of Chemical Physics <b>138</b> 094106 (2013) [DOI](https://doi.org/10.1063/1.4793531)
+
+<i>Point-defect optical transitions and thermal ionization energies from quantum Monte Carlo methods: Application to the F-center defect in MgO</i>  <br> Elif Ertekin, Lucas K. Wagner, Jeffrey C. Grossman <br>Phys. Rev. B <b>87</b> 155210 (2013) [DOI](https://doi.org/10.1103/PhysRevB.87.155210)
 
 <i>Tuning metal hydride thermodynamics via size and composition: Li-H, Mg-H, Al-H, and Mg-Al-H nanoclusters for hydrogen storage</i>  <br> Lucas K. Wagner, Eric H. Majzoub, Mark D. Allendorf, Jeffrey C. Grossman <br>Phys. Chem. Chem. Phys. <b>14</b> 6611 (2012) [DOI](https://doi.org/10.1039/C2CP24063G)
 

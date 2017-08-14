@@ -11,6 +11,8 @@ def member_format(m):
 
 members=[ {"name":"Lucas Wagner","position":"Group Leader","image":"lucas.png",
     "description":"""Lucas has over a decade's experience in computing the properties of many-body quantum systems from first principles. He is the primary architect and developer of the open-source quantum Monte Carlo program QWalk, and has made advances in many-body quantum methods, as well as a number of applications to challenging electronic systems. While he has many interests, the overarching theme of his research is using computers to study systems of electrons that fall beyond the normal paradigms of metals and insulators."""},
+    {"name":"Jo&atilde;o Nunes Barbosa Rodrigues","position":"postdoc","image":"joao.png",
+      "description":"""Joao joined in summer of 2017. He is working on effective models in graphene and descriptors for superconductivity"""},
           {"name":"Kiel Williams","position":"Graduate Student","image":"kiel.png",
         "description":"""Kiel is an NSF Graduate Research Fellow who is learning how to improve many-body wave functions in realistic systems. He joined the group in summer of 2013.
  """},              
@@ -31,27 +33,18 @@ members=[ {"name":"Lucas Wagner","position":"Group Leader","image":"lucas.png",
             "position":"Graduate Student",
             "image":"will_wheeler.jpg",
         "description":"""William joined the group in January 2016. He is currently working on the information content of many-body wave functions, and data analysis."""},
-          
-                  
-                  
+                                   
    {"name":"Shivesh Pathak","position":"Graduate Student","image":"profile-placeholder.gif",
         "description":"""Shivesh joined the group in 2016. He is currently working on enhancing QWalk's capabilities.
  """},
           
    {"name":"Yueqing Chang","position":"Graduate Student","image":"yueqing.jpg",
-        "description":"""Yueqing joined the group in fall 2016. At the time of this writing, she is still working out her project!
+        "description":"""Yueqing joined the group in fall 2016. She is working on spin-orbit coupling in correlated electron systems.
  """},
           
-    {"name":"Kittithat (Mick) Krongchon","position":"Undergraduate Student","image":"mick.jpg",
-        "description":"""Kit is working on automating electronic structure calculations in such a way that quantum Monte Carlo calculations can be performed more easily.
+    {"name":"Kittithat (Mick) Krongchon","position":"Graduate Student","image":"mick.jpg",
+        "description":"""Kit is working on automating electronic structure calculations in such a way that quantum Monte Carlo calculations can be performed more easily. He is now also working on phonons in cuprate superconductors.
  """},
-    {"name":"Matt Ho","position":"Undergraduate Student","image":"matt_ho.jpg",
-        "description":"""Matt is working on data-mining approaches to understanding trends in correlated electron materials. """},
-    {"name":"Ping-Ko Cho",
-      "position":"Undergraduate Student",
-      "image":"profile-placeholder.gif",
-        "description":"""Ping-Ko is working on faster implementations of QMC techniques"""
-        },
     
         ]
 
@@ -82,7 +75,15 @@ After a productive stint in the group, he has moved to ETH-Zurich to work with N
  """},
  {"name":"Martin Graham","position":"Undergraduate student","image":"profile-placeholder.gif" ,
         "description":"""Martin did his senior thesis on improving the time step error in diffusion Monte Carlo.
- """}]
+ """},
+    {"name":"Matt Ho","position":"Undergraduate Student","image":"matt_ho.jpg",
+        "description":"""Matt is working on data-mining approaches to understanding trends in correlated electron materials. """},
+    {"name":"Ping-Ko Cho",
+      "position":"Undergraduate Student",
+      "image":"profile-placeholder.gif",
+        "description":"""Ping-Ko is working on faster implementations of QMC techniques"""
+        },
+ ]
 
 print("""---
 layout: page

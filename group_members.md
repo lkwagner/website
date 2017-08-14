@@ -15,6 +15,12 @@ Group Leader
 <p> Lucas has over a decade's experience in computing the properties of many-body quantum systems from first principles. He is the primary architect and developer of the open-source quantum Monte Carlo program QWalk, and has made advances in many-body quantum methods, as well as a number of applications to challenging electronic systems. While he has many interests, the overarching theme of his research is using computers to study systems of electrons that fall beyond the normal paradigms of metals and insulators. </p>
 </td>
 </tr>
+ <tr> <td width="15%"> <img src="../assets/joao.png"> </td>
+<td> <span id="bioname"> <b> Jo&atilde;o Nunes Barbosa Rodrigues </b> </span>  <br>
+postdoc
+<p> Joao joined in summer of 2017. He is working on effective models in graphene and descriptors for superconductivity </p>
+</td>
+</tr>
  <tr> <td width="15%"> <img src="../assets/kiel.png"> </td>
 <td> <span id="bioname"> <b> Kiel Williams </b> </span>  <br>
 Graduate Student
@@ -65,27 +71,15 @@ Graduate Student
  <tr> <td width="15%"> <img src="../assets/yueqing.jpg"> </td>
 <td> <span id="bioname"> <b> Yueqing Chang </b> </span>  <br>
 Graduate Student
-<p> Yueqing joined the group in fall 2016. At the time of this writing, she is still working out her project!
+<p> Yueqing joined the group in fall 2016. She is working on spin-orbit coupling in correlated electron systems.
   </p>
 </td>
 </tr>
  <tr> <td width="15%"> <img src="../assets/mick.jpg"> </td>
 <td> <span id="bioname"> <b> Kittithat (Mick) Krongchon </b> </span>  <br>
-Undergraduate Student
-<p> Kit is working on automating electronic structure calculations in such a way that quantum Monte Carlo calculations can be performed more easily.
+Graduate Student
+<p> Kit is working on automating electronic structure calculations in such a way that quantum Monte Carlo calculations can be performed more easily. He is now also working on phonons in cuprate superconductors.
   </p>
-</td>
-</tr>
- <tr> <td width="15%"> <img src="../assets/matt_ho.jpg"> </td>
-<td> <span id="bioname"> <b> Matt Ho </b> </span>  <br>
-Undergraduate Student
-<p> Matt is working on data-mining approaches to understanding trends in correlated electron materials.  </p>
-</td>
-</tr>
- <tr> <td width="15%"> <img src="../assets/profile-placeholder.gif"> </td>
-<td> <span id="bioname"> <b> Ping-Ko Cho </b> </span>  <br>
-Undergraduate Student
-<p> Ping-Ko is working on faster implementations of QMC techniques </p>
 </td>
 </tr>
 
@@ -152,6 +146,18 @@ Undergraduate student
 Undergraduate student
 <p> Martin did his senior thesis on improving the time step error in diffusion Monte Carlo.
   </p>
+</td>
+</tr>
+ <tr> <td width="15%"> <img src="../assets/matt_ho.jpg"> </td>
+<td> <span id="bioname"> <b> Matt Ho </b> </span>  <br>
+Undergraduate Student
+<p> Matt is working on data-mining approaches to understanding trends in correlated electron materials.  </p>
+</td>
+</tr>
+ <tr> <td width="15%"> <img src="../assets/profile-placeholder.gif"> </td>
+<td> <span id="bioname"> <b> Ping-Ko Cho </b> </span>  <br>
+Undergraduate Student
+<p> Ping-Ko is working on faster implementations of QMC techniques </p>
 </td>
 </tr>
 
